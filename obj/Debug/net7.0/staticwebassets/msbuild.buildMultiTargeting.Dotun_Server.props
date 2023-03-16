@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Dotun_Server.props" />
+</Project>
